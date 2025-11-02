@@ -2,9 +2,6 @@ body {
     background-image: url('1.png');
 }
 
-h1{
-    color: white;
-}
-h2{
-    color: white;
+h1, h2 {
+    color: white !important;
 }
